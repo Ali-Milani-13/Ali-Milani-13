@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML , CSS , JS , React , Mui , Sass**
 
-- 📫 How to reach me **HaythamTemplar@yahoo.com**
+- 📫 How to reach me **HaythamTemplar@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
