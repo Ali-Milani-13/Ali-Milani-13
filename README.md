@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Milani</h1>
-<h3 align="center">I'm a passionate and self taught front end web Developer</h3>
+<h3 align="center">I do front end web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-milani-13&label=Profile%20views&color=0e75b6&style=flat" alt="ali-milani-13" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I code in **React JS**
 
 - 💬 Ask me about **HTML , CSS , JS , React , Mui , Sass**
 
