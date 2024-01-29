@@ -15,3 +15,5 @@ I rather have 10 different tools and be professional at them, rather than focus 
 after all, we all use Windows, which is based on 25 years old Windows NT, or Darwin kernel for macOS which is even older. 
 
 there should be a "need" to make change. not an instinct to change tool "X" with "Y" because now it's been 3 years for example. 
+
+business inquiries: Business_AliMilani13@outlook.com
