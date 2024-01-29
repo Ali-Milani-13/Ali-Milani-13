@@ -1,5 +1,7 @@
 [+] Ali Milani
+
 [+] Front end web developer
+
 [+] a developer. NOT frameworker
 
 [+] here is the brief summary of my mindest: 
