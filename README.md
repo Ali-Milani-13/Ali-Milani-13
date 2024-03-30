@@ -8,7 +8,7 @@ Changes in front-end technologies are often unnecessary and it has become a more
 
 a Good product. a good project is not the one made with frameworks with more purplish websites or cool logos. they are products with solid foundations, maintainable codes, and at least relatively good reliability. 
 
-I rather have 10 different tools and be professional at them, rather than focus on the "next big thing" and dive into the endless ocean of tutorials for those specific tools. 
+I rather have 10 different tools and be professional at them, rather than focus on the "next game changing tool" and dive into the endless ocean of tutorials for those specific tools. 
 
 after all, we all use Windows, which is based on 25 years old Windows NT, or Darwin kernel for macOS which is even older. 
 
