@@ -6,12 +6,9 @@
 
 Changes in front-end technologies are often unnecessary and it has become a more and more fashion show of frameworks and tools rather than the actual and sole purpose of programming, which is problem-solving; to create an actual product and value.
 
-a Good product. a good project is not the one made with frameworks with more purplish websites or cool logos. they are products with solid foundations, maintainable codes, and at least relatively good reliability. 
 
-I rather have 10 different tools and be professional at them, rather than focus on the "next game changing tool" and dive into the endless ocean of tutorials for those specific tools. 
+![R (4)](https://github.com/Ali-Milani-13/Ali-Milani-13/assets/101967444/7f83cd85-30a5-4eab-8ff6-a235c8e25a30)  ![R (5)](https://github.com/Ali-Milani-13/Ali-Milani-13/assets/101967444/f4350be6-9f22-44b2-a7db-6c3e928d6387)  ![R (6)](https://github.com/Ali-Milani-13/Ali-Milani-13/assets/101967444/cb6f5da8-098e-4afd-b420-f26b012305d8)
 
-after all, we all use Windows, which is based on 25 years old Windows NT, or Darwin kernel for macOS which is even older. 
 
-there should be a "need" to make change. not an instinct to change tool "X" with "Y" because now it's been 3 years for example. 
 
-business inquiries: Business_AliMilani13@outlook.com
+ 
