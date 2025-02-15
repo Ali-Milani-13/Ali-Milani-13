@@ -1,14 +1,9 @@
-[+] Ali Milani
+[Ali Milani] - Front-End Web Developer
+As a Front-End Web Developer, I focus on delivering simple, effective solutions that prioritize problem-solving and tangible value over unnecessary complexity. In an ever-evolving landscape of front-end frameworks and tools, I believe in embracing technologies that serve the product’s core purpose, ensuring clean and maintainable code that results in seamless user experiences.
 
-[+] Front end web developer
-
-
-Changes in front-end technologies are often unnecessary and it has become a more and more fashion show of frameworks and tools rather than the actual and sole purpose of programming, which is problem-solving; to create an actual product and value.
-So, I keep it simple. as Da vinci said:
-
-> Simplicity is the ultimate sophistication
-
-
+Inspired by Leonardo da Vinci's philosophy:
+"Simplicity is the ultimate sophistication,"
+I strive to bring elegance and clarity to every project, creating impactful, user-centric web applications.
  
 
 
