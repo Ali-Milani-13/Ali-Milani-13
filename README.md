@@ -6,5 +6,6 @@ Inspired by Leonardo da Vinci's philosophy:
 I strive to bring elegance and clarity to every project, creating impactful, user-centric web applications.
  
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-milani13/)
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/178795da-1602-4150-a23f-1b01f0a2170a)
